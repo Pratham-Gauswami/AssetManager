@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "wPGvHKRvUOU=",
+  "success": false,
+  "projectFilePath": "/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/ClassLibrary1/ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "/Users/prathamgauswami/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/system.data.sqlclient/4.8.6/system.data.sqlclient.4.8.6.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/Users/prathamgauswami/.nuget/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1103",
+      "level": "Error",
+      "message": "Unable to find a stable package Xunit.Microsoft.VisualStudio.TestTools.UnitTesting with version (>= 0.0.0)\n  - Found 1 version(s) in nuget.org [ Nearest version: 1.0.0-beta-1011 ]",
+      "libraryId": "Xunit.Microsoft.VisualStudio.TestTools.UnitTesting",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

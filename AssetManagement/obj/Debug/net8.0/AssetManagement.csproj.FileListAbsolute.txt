@@ -1,0 +1,9 @@
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.AssemblyInfoInputs.cache
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.AssemblyInfo.cs
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.csproj.CoreCompileInputs.cache
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.MvcApplicationPartsAssemblyInfo.cache
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.RazorAssemblyInfo.cache
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.RazorAssemblyInfo.cs
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.sourcelink.json
+/Users/prathamgauswami/Desktop/AssetManagement/AssetManagement/obj/Debug/net8.0/AssetManagement.csproj.AssemblyReference.cache
